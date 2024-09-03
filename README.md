@@ -1,2 +1,2 @@
 # Actividades
-Actividades de la materia
+Actividades de la materia Inteligencia Artificial y Redes Neuronales
